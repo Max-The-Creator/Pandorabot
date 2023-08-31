@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+    <!-- Assessment logic-->
+    <category>
+        <pattern>MY NAME IS *</pattern>
+        <template>
+        Nice to meet you, <star/>. Let's identify your strengths and preferences. 
+        Please tell me which of the following are you most interested in:
+        Problem Solving,
+        Working with Data,
+        Cybersecurity,
+        Designing Interfaces,
+        DevOps
+        <set name="username"><star/></set>
+        </template>
+    </category>
+    
+    <!-- Software Developer -->
+	<category>
+        <pattern>PROBLEM SOLVING</pattern>
+        <template>
+        Great! You might be interested in becoming a Software Developer! 
+        </template>
+    </category>
+    
+    <!-- Data Analyst -->
+	<category>
+        <pattern>WORKING WITH DATA</pattern>
+        <template>
+        That's good to hear. You might be interested in a career as a Data Analyst! 
+        </template>
+    </category>
+
+    <!-- Cybersecurity Analyst -->
+    <category>
+        <pattern>CYBERSECURITY</pattern>
+        <template>
+        Cybersecurity is a crucial field. You might be a good fit for a Cybersecurity Analyst role! 
+        </template>
+    </category>
+
+    <!-- UX/UI Designer -->
+    <category>
+        <pattern>DESIGNING INTERFACES</pattern>
+        <template>
+        Wonderful! UX/UI Design could be your calling. 
+        </template>
+    </category>
+
+    <!-- DevOps Engineer -->
+    <category>
+        <pattern>DEVOPS</pattern>
+        <template>
+        DevOps is a growing field combining software development and IT operations! 
+        </template>
+    </category>
+
+	
+</aiml>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <!-- Error Handling -->
+    <category>
+        <pattern>*</pattern>
+        <template>I'm sorry. I didn't quite understand that. Can you please try again?</template>
+    </category>
+  
+</aiml>
