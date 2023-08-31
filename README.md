@@ -22,8 +22,8 @@
 - Use the "Deploy" tab to get a web link or an embed code.
 
 ## Web Link to Access Live Chatbot
-https://home.pandorabots.com/dash/bot-directory
-Search "MKT 011100239"
+- https://home.pandorabots.com/dash/bot-directory
+- Search "MKT 011100239"
 
 ## Troubleshooting
 - Problem and solutions are described here.
