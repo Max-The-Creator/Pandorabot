@@ -25,8 +25,5 @@
 - https://home.pandorabots.com/dash/bot-directory
 - Search "MKT 011100239"
 
-## Troubleshooting
-- Problem and solutions are described here.
-
 ## Support
 - For further assistance, visit [Pandorabots Contact Us](https://www.pandorabots.com/contact/).
